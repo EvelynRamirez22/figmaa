@@ -14,7 +14,7 @@ export default function ArtesaniasWebsite() {
   const products = Array(6).fill({
     name: "Producto 1",
     price: "$10000",
-    image: "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.aboutespanol.com%2Fthmb%2F_T9XY3p1ZFpKufVUSoiCvPCLhOA%3D%2F1024x680%2Ffilters%3Ano_upscale()%3Amax_bytes(150000)%3Astrip_icc()%2Falebrije-597b76183df78cbb7a24b350.jpg&f=1&nofb=1&ipt=bc5448c15f17adcfc6011eebd1aa707d23f91a2605a88ea444cfaa085ab0a736",
+    image: "/images.jpg",
   })
 
   const Navigation = () => (
